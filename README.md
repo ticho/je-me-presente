@@ -1,24 +1,7 @@
-# README
+# Je me presente
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple rails project to get started with routing and hosting on heroku aswell as using Bootstrap
 
-Things you may want to cover:
+Link to the Heroku site
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[https://tibo-se-presente.herokuapp.com/](https://tibo-se-presente.herokuapp.com/)

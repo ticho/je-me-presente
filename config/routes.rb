@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  # defining the routes and giving them an alias
   get '/contact', to: 'static_pages#contact', as: 'contact'
   get '/about', to: 'static_pages#about', as: 'about'
   get '/about/moi', to: 'static_pages#about_me', as: 'about_me'

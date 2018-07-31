@@ -1,4 +1,5 @@
 class StaticPagesController < ApplicationController
+  # methods can stay empty since all the pages are static
   def home
   end
 
